@@ -1,0 +1,56 @@
+body {
+    background-color: #d6d6d6;
+}
+
+.header {
+    background-image: url(../images/background.jpg);
+    width: 100%;
+    height: 165px;
+}
+
+.logo{
+    background-image: url(../images/logo.png);
+    position: relative;
+    /* z-index: 100; */
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    top: -150px;
+}
+.bothBoxes {
+    margin: center;
+    margin-left: 100px;
+    padding-left: 100px;
+}
+
+.middleBox {
+    height: 800px;
+    width: 400px;
+    display: inline-block;
+    background-color: white;
+    /* margin: auto; */
+}
+
+
+
+.sideBox {
+    display: inline-block;
+    width: 200px;
+    height: 500px;
+    background-color: white;
+}
+
+.horizontal_dotted_line {
+    border-bottom: 1px dotted [color];
+    width: [put your width here]px;
+}
+
+.logoImg {
+    width: 100px;
+    height:100px;
+    }
+
+.middlePic {
+    width:150px;
+     height: 80px;
+}
